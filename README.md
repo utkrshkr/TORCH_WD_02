@@ -1,0 +1,1 @@
+This project is a Stopwatch Web Application built using HTML, CSS, and JavaScript (jQuery). It provides a simple user interface with features like starting, pausing, and resetting the stopwatch. The display includes hours, minutes, seconds, and milliseconds, updated in real-time.
